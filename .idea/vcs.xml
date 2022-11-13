@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FarmnetTestProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HIMS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NodejsStarterKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PatientRecords" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adonis-acl-blog-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/erpjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/excursions-front-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloworld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowdefy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mern-admin-panel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-bootstrap-material" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/warehouse-management-system" vcs="Git" />
+  </component>
+</project>
